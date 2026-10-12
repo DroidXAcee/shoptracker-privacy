@@ -1,6 +1,6 @@
 # Politique de confidentialité — ShopTracker
 
-Dernière mise à jour : 12/09/2026
+Dernière mise à jour : 12/10/2026
 ## Qui sommes-nous
 ShopTracker est une application développée par Kévin Hatterer, disponible sur le Google Play.
 
