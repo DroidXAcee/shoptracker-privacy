@@ -26,3 +26,17 @@ Pour toute question concernant cette politique de confidentialité, contactez-no
 
 ## Modifications
 Cette politique peut être mise à jour occasionnellement. La date de dernière mise à jour figure en haut de cette page.
+
+## Identifiant publicitaire
+
+Vous pouvez à tout moment réinitialiser ou supprimer votre identifiant publicitaire depuis les paramètres de votre appareil Android (Paramètres → Confidentialité → Annonces).
+
+Pour savoir comment Google utilise les données issues de ses partenaires publicitaires : https://policies.google.com/technologies/partner-sites
+
+## Âge requis
+
+ShopTracker s'adresse aux personnes de 18 ans et plus, conformément à la tranche d'âge déclarée sur le Google Play Store. L'application ne collecte pas sciemment de données concernant des mineurs.
+
+## Modifications
+
+Cette politique peut être mise à jour. Toute modification sera publiée sur cette page, avec la date de mise à jour correspondante.
