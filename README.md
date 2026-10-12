@@ -1,6 +1,6 @@
 # Politique de confidentialité — ShopTracker
 
-Dernière mise à jour : 31/07/2026
+Dernière mise à jour : 12/09/2026
 ## Qui sommes-nous
 ShopTracker est une application développée par Kévin Hatterer, disponible sur le Google Play.
 
@@ -21,12 +21,6 @@ Nous ne vendons ni ne partageons vos données personnelles avec des tiers, à l'
 ## Vos droits
 Comme aucune donnée personnelle n'est stockée sur nos serveurs, vous conservez un contrôle total sur vos données via votre appareil : vous pouvez les supprimer à tout moment en désinstallant l'application.
 
-## Contact
-Pour toute question concernant cette politique de confidentialité, contactez-nous à : kevin.hatterer@gmail.com
-
-## Modifications
-Cette politique peut être mise à jour occasionnellement. La date de dernière mise à jour figure en haut de cette page.
-
 ## Identifiant publicitaire
 
 Vous pouvez à tout moment réinitialiser ou supprimer votre identifiant publicitaire depuis les paramètres de votre appareil Android (Paramètres → Confidentialité → Annonces).
@@ -36,6 +30,8 @@ Pour savoir comment Google utilise les données issues de ses partenaires public
 ## Âge requis
 
 ShopTracker s'adresse aux personnes de 18 ans et plus, conformément à la tranche d'âge déclarée sur le Google Play Store. L'application ne collecte pas sciemment de données concernant des mineurs.
+## Contact
+Pour toute question concernant cette politique de confidentialité, contactez-nous à : kevin.hatterer@gmail.com
 
 ## Modifications
 
