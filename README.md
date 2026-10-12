@@ -26,3 +26,17 @@ Pour toute question concernant cette politique de confidentialité, contactez-no
 
 ## Modifications
 Cette politique peut être mise à jour occasionnellement. La date de dernière mise à jour figure en haut de cette page.
+
+## Identifiant publicitaire
+
+Vous pouvez à tout moment réinitialiser ou supprimer votre identifiant publicitaire depuis les paramètres de votre appareil Android (Paramètres → Confidentialité → Annonces).
+
+Pour savoir comment Google utilise les données issues de ses partenaires publicitaires : https://policies.google.com/technologies/partner-sites
+
+## Enfants
+
+ShopTracker ne s'adresse pas aux enfants de moins de 13 ans et ne collecte pas sciemment de données les concernant.
+
+## Modifications
+
+Cette politique peut être mise à jour. Toute modification sera publiée sur cette page, avec la date de mise à jour correspondante.
